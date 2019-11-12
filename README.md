@@ -1,2 +1,2 @@
 # Tabelka
-Rysuje tebelke i oblicza wartosci
+Rysuje tabelke i oblicza wartosci
